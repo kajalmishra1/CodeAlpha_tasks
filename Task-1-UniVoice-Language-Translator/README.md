@@ -5,7 +5,7 @@
 **UniVoice** is a modern, full-stack multilingual translation web app — built with React + Vite on the frontend and Node.js + Express on the backend. It supports 70+ languages, voice input, text-to-speech, and a beautiful glassmorphism UI with dark/light mode. Built as part of my **CodeAlpha Internship**.
 
 🔗 **Live Demo:** [uni-voice-five.vercel.app](https://uni-voice-five.vercel.app)
-🔗 **Repo:** [github.com/kajalmishra1/CodeAlpha_UniVoice](https://github.com/kajalmishra1/CodeAlpha_UniVoice)
+🔗 **Repo:** [github.com/kajalmishra1/CodeAlpha_tasks/tree/main/Task-1-UniVoice-Language-Translator](https://github.com/kajalmishra1/CodeAlpha_tasks/tree/main/Task-1-UniVoice-Language-Translator)
 ---
 
 ## ✨ Features
