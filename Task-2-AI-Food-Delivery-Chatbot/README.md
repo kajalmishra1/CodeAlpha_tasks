@@ -4,6 +4,14 @@ AI-powered conversational assistant for food delivery support, built using TF-ID
 
 ---
 
+## 🌐 Live Demo
+
+[**Try OrderBuddy here**](https://ai-food-delivery-chatbot.onrender.com)
+
+*Hosted on a free tier — first load may take 30–50 seconds if the app has been idle.*
+
+---
+
 ## 📌 Overview
 
 OrderBuddy is an intelligent food delivery support chatbot designed to handle user queries related to orders, refunds, payments, delivery status, coupons, and account management.
